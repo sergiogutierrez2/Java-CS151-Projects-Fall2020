@@ -18,7 +18,7 @@ public class FishMessage
         System.out.println(" __|      \\__     | .                  \\_        /             \\    ");
         System.out.println(" \\__  ======= \\._.'                       \\\".    /               \\   ");
         System.out.println("    \\_   ====== .        .'       )))))    @'._/                 |  ");
-        System.out.println("      |   =====  .      .        ))))))))    (_  Hello World!!!  |  ");
+        System.out.println("      |   =====  .      .        ))))))))    (_  Hello Grader!!  |  ");
         System.out.println("       '|  ====. '   ..._          ))))   _-'  \\                 |  ");
         System.out.println("         / .===  |.--- .-:;..______.----'       \\               /   ");
         System.out.println("       _|  _/\"\"\"\"    |    __/                    \\_____________/    ");
